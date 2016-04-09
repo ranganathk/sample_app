@@ -36,7 +36,7 @@ merry_christmas:
 lunch_plans:
   content: "What are lunch plans junta?"
   created_at: <%= 15.minutes.ago %>
-  user: srikanth
+  user: sarita
 
 <% 30.times do |n| %>
 micropost_<%= n %>:
