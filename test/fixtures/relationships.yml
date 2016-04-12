@@ -1,0 +1,19 @@
+one:
+  follower: ranga
+  followed: srikanth
+
+two:
+  follower: dheeru
+  followed: sarita
+
+three:
+  follower: dheeru
+  followed: ranga
+
+four:
+  follower: ranga
+  followed: sarita
+
+five:
+  follower: sarita
+  followed: ranga
